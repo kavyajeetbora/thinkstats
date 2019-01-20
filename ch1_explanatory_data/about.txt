@@ -1,0 +1,14 @@
+NFSG - National survey of family growth
+to find out - do first babies tend to arrive late?? 
+statistical approach - 
+1. Data collection 
+2. Descriptive statistics - summarize the data and evaluate different ways to visualize data
+3. Exploratory data - look for patterns, differences. Find out inconsistencies and identify limitations
+4. Estimation - we will use data from sample to estimate characteristics of the general population
+5. Hypothesis testing - we will see the difference between two groups
+
+
+NFSG - National survey of family growth -
+it is a cross-sectional study which observes group repeatedly over a period of time. 
+it conducts the study seven times. we will take sample from cycle 6 Jan 2002 to Mar 2003.
+We will draw conclusion about  
